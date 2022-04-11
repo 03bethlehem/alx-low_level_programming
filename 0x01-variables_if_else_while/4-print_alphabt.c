@@ -5,7 +5,7 @@
  * Description: Print lowercase alphabet excluding c and q
  * Return: 0
  */
-int mai(void)
+int main(void)
 {
 char c;
 for (c = 'a'; c <= 'z'; ++)
