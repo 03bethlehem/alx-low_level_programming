@@ -3,17 +3,20 @@
  /**
   * main - Entry point
   *
-  * Description: Print all the digits of base 16 in lowercase
-  * Return: 0
+  * Return: Always 0 (success/correct)
   */
 int main(void)
-{
-char x;
 
-for (x = '0'; x <= '9'; ++x)
-putchar(x);
-for (x = 'a'; x <= 'f'; ++x)
-putchar(x);
+{
+char base_16;
+
+for (base_16 = 48; base-16 <= 57; base-16++)
+{putchar(base_16);
+}
+for (base_16 = 97 ; base 16 <= 102; base_16++)
+{
+putchar(base_16);
+}
 
 putchar('\n');
 
