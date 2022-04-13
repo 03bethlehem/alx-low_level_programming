@@ -24,3 +24,5 @@ else
 _putchar('_');
 return (-1);
 }
+return (0);
+}
