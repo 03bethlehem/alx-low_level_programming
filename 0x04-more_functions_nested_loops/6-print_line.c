@@ -4,7 +4,7 @@
  * print_line - prints underscores
  * @n: limit
  *
- * Return: void
+ * Return: Always 0.
  */
 
 void print_line(int n)
