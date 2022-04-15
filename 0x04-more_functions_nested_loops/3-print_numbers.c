@@ -1,11 +1,12 @@
 #include "main.h"
 /**
- * print_numbers - print the number zero to nine
+ * print_numbers - prints the number zero to nine
  *
- * Return: Always 0.
+ * Return: Always 0 (Success)
  */
 void print_numbers(void)
 {
+
 int i;
 
 i = 0;
