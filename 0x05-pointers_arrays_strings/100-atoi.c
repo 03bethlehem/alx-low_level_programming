@@ -5,7 +5,7 @@
  * @s: string
  * Return: Return the num
  */
-int -atoi(char *s)
+int _atoi(char *s)
 {
 unsigned int number, i;
 int sign;
