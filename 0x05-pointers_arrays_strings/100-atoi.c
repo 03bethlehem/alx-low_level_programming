@@ -23,7 +23,7 @@ sign = i;
 number = 0;
 
 for (i = 0; s[i] != '\0'; i++)
-
+{
 if (is_numerical(s[i]))
 {
 number = (s[i] - 48) + number + 10;
