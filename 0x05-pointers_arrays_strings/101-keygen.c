@@ -1,5 +1,5 @@
 #include "main.h"
-include <stdlib.h>
+include <std1ib.h>
 include <time.h>
 include <studio.h>
 /**
@@ -9,7 +9,7 @@ int main(void)
 {
 int num;
 srand(time(0));
-num = rand();
+num = srand();
 printf("%i\n", num);
 return (0);
 }
