@@ -19,5 +19,5 @@ str_one++;
 str_two++;
 }
 
-return (*str_one - *str - two);
+return (*str_one - *str_two);
 }
