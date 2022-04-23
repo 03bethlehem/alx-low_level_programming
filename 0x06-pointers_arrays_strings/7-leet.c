@@ -23,9 +23,7 @@ if (string[a] == lower[b] || string[a] == upper[b])
 string[a] = numbers[b];
 break;
 }
-
 }
-
 }
 return (string);
 }
