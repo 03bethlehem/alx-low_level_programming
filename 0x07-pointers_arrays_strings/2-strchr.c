@@ -4,15 +4,16 @@
  * @s: source string
  * @c: character to find
  *
- * Return: th string from character found
+ * Return: the string from character found
  */
+
 char *_strchr(char *s, char c)
 {
 int a = 0, b;
 
 while (s[a])
 {
-a++
+a++;
 }
 
 for (b = 0; b <= a; b++)
