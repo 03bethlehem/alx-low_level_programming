@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print-diagsums - print the sun of two diagonals of square matrix
+ * print-diagsums - Print the sum of two diagonals of square matrix
  *
  * @a: the matrix
  * @size: the size
