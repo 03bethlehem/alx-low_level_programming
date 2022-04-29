@@ -1,5 +1,5 @@
 #ifndef MAIN_H
-#define MAIN.H
+#define MAIN_H
 
 int _putchar(char c);
 void _puts_recursion(char *s);
@@ -14,7 +14,7 @@ int my_sqrt(int x, int i);
 int prime(int n, int d);
 int is_palindrome(char *s);
 int get_length(char *s);
-int palind(char *s, int 1);
+int palind(char *s, int i);
 int wildcmp(char *s1, char *s2);
 
 #endif /*MAIN_H */
